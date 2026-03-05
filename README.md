@@ -1,5 +1,9 @@
 <img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Developer;Nuxt+%2F+Vue+Developer;Building+Modern+Web+Applications" />
+</p>
+
 <h1 align="left">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
   Hi, I'm <strong>Ifthar</strong>
@@ -46,6 +50,24 @@
 </div>
 
 <br clear="all" />
+
+---
+
+# ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt" />
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+
+<img src="https://skillicons.dev/icons?i=tailwind,docker,git,postman,vscode,figma" />
+
+</p>
 
 ---
 
@@ -103,11 +125,98 @@
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Featured Projects
 
-<div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=ifthar&theme=dark&hide_border=true" alt="Streak" />
-</div>
+### 🛒 Forever — E-Commerce Platform
+Full MERN stack e-commerce project built for study and experimentation.
+
+**Stack**
+
+React • Node.js • Express • MongoDB • TailwindCSS
+
+**Features**
+
+- Product catalog
+- Cart system
+- Authentication
+- Admin product management
+
+---
+
+### 🧑‍🔧 PickMyMaid — Job Platform (UAE)
+
+A recruitment platform connecting employers with domestic workers.
+
+**Stack**
+
+Next.js • TailwindCSS
+
+**Features**
+
+- Internationalization
+- Job listings
+- Employer profiles
+- Responsive UI
+
+---
+
+### 🗒️ Whatever — Smart Notes App
+
+Productivity notes system with drag-and-drop task creation.
+
+**Stack**
+
+React • Node.js • MongoDB
+
+**Features**
+
+- Drag & drop task notes
+- Color-coded notes
+- Pin important notes
+- Reverse chronological sorting
+
+---
+
+### 🧾 MeqOS — Service Management Platform
+
+A full workflow system for repair/service businesses.
+
+**Stack**
+
+Nuxt.js • PostgreSQL • TailwindCSS
+
+**Modules**
+
+- Job Management
+- Quotations → Sales Orders → Invoices
+- Technician workflow
+- Reception dashboard
+- Inventory system
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ifthar&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifthar&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=ifthar&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ifthar&theme=tokyo-night&hide_border=true"/>
 
 ---
